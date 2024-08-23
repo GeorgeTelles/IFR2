@@ -1,0 +1,3 @@
+IFR2-Indice.py: Testar diferentes timeframes, embutir custos e taxas das operações.
+IFR2-Stocks.py: Testar diferentes ativos e timeframes, me parece que para ações só vale a pena no D1, mas vou analisar.
+IFR2-Stop-Indice.py: Testar diferentes timeframes, niveis de stop e embutir custos e taxas das operações. testar o stop com a minima do candle.
